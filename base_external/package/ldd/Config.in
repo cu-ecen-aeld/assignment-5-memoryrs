@@ -1,0 +1,5 @@
+
+config BR2_PACKAGE_LDD
+	bool "ldd"
+	help
+	  Load the LDD kernel modules, including misc-modules and scull contained in the assignment-7 repository
